@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const content = [
   {
-    summary: "React is a library for building UIs",
+    summary: "React1 is a library for building UIs",
     details:
       "Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
   },
